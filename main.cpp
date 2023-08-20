@@ -1,4 +1,3 @@
-#include "animal_factory/AnimalFactory.h"
 #include "animal_factory/CatFactory.h"
 #include "animal_factory/DogFactory.h"
 #include "FoodBowl.h"
